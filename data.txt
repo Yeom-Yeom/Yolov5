@@ -1,0 +1,5 @@
+train: ../train_1/images
+val: ../valid_1/images
+
+nc: 10
+names: ['car','car_plate','bus','bus_plate','truck','truck_plate','motorcycle','motorcycle_plate','only_motorcycle','person']
